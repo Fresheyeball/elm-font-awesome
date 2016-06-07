@@ -8,7 +8,9 @@
     ],
     "exposed-modules": [
         "FontAwesome.Web",
-        "FontAwesome.Web.Class"
+        "FontAwesome.Web.Class",
+        "FontAwesome.Brand",
+        "FontAwesome.Brand.Class"
     ],
     "dependencies": {
         "elm-lang/core": "4.0.1 <= v < 5.0.0",
